@@ -1,0 +1,9 @@
+Hiểu đơn giản Components chính là các viên gạch tạo nên bố cục của 1 website
+
+Component của ReactJS chính alf 1 class hay function (chính là 1 hàm có chức năng đặc biệt là giữ vai trò render ra 1 khối HTML)
+
+Đặc biệt: Sử dụng cú pháp JSX
+
+JSX là 1 function hay 1 hàm của JS, nhưng thay vì trả về 1 biến thì sẽ trả về 1 đống html
+
+Code HTML trong JS chính là JSX
